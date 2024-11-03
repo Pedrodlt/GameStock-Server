@@ -8,3 +8,5 @@
 - URL: jdbc:mysql://localhost:3306/gamestockapp?serverTimezone=UTC
 - USER: Root
 - PASSWORD: 898989
+
+- Ejecutar el archivo LoginUser.java. Desde ahi se podría registrar nuevo usuario, que se guarden los datos en BBDD, iniciar sesion dependiendo si se es USER o ADMIN.
